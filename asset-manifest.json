@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AmazClone/static/css/main.e9cc366f.chunk.css",
+    "main.js": "/AmazClone/static/js/main.74961fb3.chunk.js",
+    "main.js.map": "/AmazClone/static/js/main.74961fb3.chunk.js.map",
+    "runtime-main.js": "/AmazClone/static/js/runtime-main.4a81c313.js",
+    "runtime-main.js.map": "/AmazClone/static/js/runtime-main.4a81c313.js.map",
+    "static/js/2.f3513b30.chunk.js": "/AmazClone/static/js/2.f3513b30.chunk.js",
+    "static/js/2.f3513b30.chunk.js.map": "/AmazClone/static/js/2.f3513b30.chunk.js.map",
+    "static/js/3.3fa27b3a.chunk.js": "/AmazClone/static/js/3.3fa27b3a.chunk.js",
+    "static/js/3.3fa27b3a.chunk.js.map": "/AmazClone/static/js/3.3fa27b3a.chunk.js.map",
+    "index.html": "/AmazClone/index.html",
+    "static/css/main.e9cc366f.chunk.css.map": "/AmazClone/static/css/main.e9cc366f.chunk.css.map",
+    "static/js/2.f3513b30.chunk.js.LICENSE.txt": "/AmazClone/static/js/2.f3513b30.chunk.js.LICENSE.txt",
+    "static/media/sviet.0301e771.jpg": "/AmazClone/static/media/sviet.0301e771.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a81c313.js",
+    "static/js/2.f3513b30.chunk.js",
+    "static/css/main.e9cc366f.chunk.css",
+    "static/js/main.74961fb3.chunk.js"
+  ]
+}
